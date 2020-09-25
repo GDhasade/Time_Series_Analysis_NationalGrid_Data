@@ -1,0 +1,90 @@
+2020-09-25 20:04:40,340:INFO:PyCaret Anomaly Detection Module
+2020-09-25 20:04:40,345:INFO:version 2.1.2
+2020-09-25 20:04:40,346:INFO:Initializing setup()
+2020-09-25 20:04:40,347:INFO:USI: a8bf
+2020-09-25 20:04:40,349:INFO:setup(data=(978072, 22), categorical_features=None, categorical_imputation=constant, ordinal_features=None, high_cardinality_features=None, 
+                    numeric_features=None, numeric_imputation=mean, date_features=None, ignore_features=None, normalize=False,
+                    normalize_method=zscore, transformation=False, transformation_method=yeo-johnson, handle_unknown_categorical=True, unknown_categorical_method=least_frequent, pca=False, pca_method=linear,
+                    pca_components=None, ignore_low_variance=False, combine_rare_levels=False, rare_level_threshold=0.1, bin_numeric_features=None,
+                    remove_multicollinearity=False, multicollinearity_threshold=0.9, group_features=None,
+                    group_names=None, supervised=False, supervised_target=None, n_jobs=-1, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_profile=False, log_data=False, silent=False, verbose=True, profile=False)
+2020-09-25 20:04:40,350:INFO:Checking environment
+2020-09-25 20:04:40,351:INFO:python_version: 3.7.9
+2020-09-25 20:04:40,352:INFO:python_build: ('default', 'Aug 31 2020 07:22:35')
+2020-09-25 20:04:40,353:INFO:machine: x86_64
+2020-09-25 20:04:40,393:INFO:platform: Darwin-19.6.0-x86_64-i386-64bit
+2020-09-25 20:04:40,403:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2020-09-25 20:04:40,404:INFO:Checking libraries
+2020-09-25 20:04:40,405:INFO:pd==1.1.2
+2020-09-25 20:04:40,406:INFO:numpy==1.18.1
+2020-09-25 20:04:43,522:WARNING:pyod not found
+2020-09-25 20:04:44,499:INFO:mlflow==1.11.0
+2020-09-25 20:04:44,500:INFO:Checking Exceptions
+2020-09-25 20:04:44,500:INFO:Preloading libraries
+2020-09-25 20:04:44,501:INFO:Preparing display monitor
+2020-09-25 20:04:44,550:INFO:Importing libraries
+2020-09-25 20:04:44,550:INFO:Declaring global variables
+2020-09-25 20:04:44,551:INFO:Copying data for preprocessing
+2020-09-25 20:04:45,067:INFO:Declaring preprocessing parameters
+2020-09-25 20:04:45,068:INFO:Importing preprocessing module
+2020-09-25 20:06:34,991:INFO:PyCaret Anomaly Detection Module
+2020-09-25 20:06:34,992:INFO:version 2.1.2
+2020-09-25 20:06:34,993:INFO:Initializing setup()
+2020-09-25 20:06:34,994:INFO:USI: 41b7
+2020-09-25 20:06:34,994:INFO:setup(data=(3404, 2), categorical_features=None, categorical_imputation=constant, ordinal_features=None, high_cardinality_features=None, 
+                    numeric_features=None, numeric_imputation=mean, date_features=None, ignore_features=None, normalize=False,
+                    normalize_method=zscore, transformation=False, transformation_method=yeo-johnson, handle_unknown_categorical=True, unknown_categorical_method=least_frequent, pca=False, pca_method=linear,
+                    pca_components=None, ignore_low_variance=False, combine_rare_levels=False, rare_level_threshold=0.1, bin_numeric_features=None,
+                    remove_multicollinearity=False, multicollinearity_threshold=0.9, group_features=None,
+                    group_names=None, supervised=False, supervised_target=None, n_jobs=-1, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_profile=False, log_data=False, silent=False, verbose=True, profile=False)
+2020-09-25 20:06:34,995:INFO:Checking environment
+2020-09-25 20:06:34,995:INFO:python_version: 3.7.9
+2020-09-25 20:06:34,996:INFO:python_build: ('default', 'Aug 31 2020 07:22:35')
+2020-09-25 20:06:34,997:INFO:machine: x86_64
+2020-09-25 20:06:34,997:INFO:platform: Darwin-19.6.0-x86_64-i386-64bit
+2020-09-25 20:06:34,998:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2020-09-25 20:06:34,999:INFO:Checking libraries
+2020-09-25 20:06:34,999:INFO:pd==1.1.2
+2020-09-25 20:06:35,000:INFO:numpy==1.18.1
+2020-09-25 20:06:35,001:WARNING:pyod not found
+2020-09-25 20:06:35,002:INFO:mlflow==1.11.0
+2020-09-25 20:06:35,002:INFO:Checking Exceptions
+2020-09-25 20:06:35,003:INFO:Preloading libraries
+2020-09-25 20:06:35,003:INFO:Preparing display monitor
+2020-09-25 20:06:35,018:INFO:Importing libraries
+2020-09-25 20:06:35,019:INFO:Declaring global variables
+2020-09-25 20:06:35,020:INFO:Copying data for preprocessing
+2020-09-25 20:06:35,064:INFO:Declaring preprocessing parameters
+2020-09-25 20:06:35,065:INFO:Importing preprocessing module
+2020-09-25 20:06:52,505:INFO:PyCaret Anomaly Detection Module
+2020-09-25 20:06:52,506:INFO:version 2.1.2
+2020-09-25 20:06:52,507:INFO:Initializing setup()
+2020-09-25 20:06:52,508:INFO:USI: df81
+2020-09-25 20:06:52,509:INFO:setup(data=(3404, 2), categorical_features=None, categorical_imputation=constant, ordinal_features=None, high_cardinality_features=None, 
+                    numeric_features=None, numeric_imputation=mean, date_features=None, ignore_features=None, normalize=False,
+                    normalize_method=zscore, transformation=False, transformation_method=yeo-johnson, handle_unknown_categorical=True, unknown_categorical_method=least_frequent, pca=False, pca_method=linear,
+                    pca_components=None, ignore_low_variance=False, combine_rare_levels=False, rare_level_threshold=0.1, bin_numeric_features=None,
+                    remove_multicollinearity=False, multicollinearity_threshold=0.9, group_features=None,
+                    group_names=None, supervised=False, supervised_target=None, n_jobs=-1, html=True, session_id=None, log_experiment=False,
+                    experiment_name=None, log_plots=False, log_profile=False, log_data=False, silent=False, verbose=True, profile=False)
+2020-09-25 20:06:52,510:INFO:Checking environment
+2020-09-25 20:06:52,511:INFO:python_version: 3.7.9
+2020-09-25 20:06:52,511:INFO:python_build: ('default', 'Aug 31 2020 07:22:35')
+2020-09-25 20:06:52,512:INFO:machine: x86_64
+2020-09-25 20:06:52,512:INFO:platform: Darwin-19.6.0-x86_64-i386-64bit
+2020-09-25 20:06:52,515:WARNING:cannot find psutil installation. memory not traceable. Install psutil using pip to enable memory logging. 
+2020-09-25 20:06:52,516:INFO:Checking libraries
+2020-09-25 20:06:52,516:INFO:pd==1.1.2
+2020-09-25 20:06:52,517:INFO:numpy==1.18.1
+2020-09-25 20:06:52,518:WARNING:pyod not found
+2020-09-25 20:06:52,519:INFO:mlflow==1.11.0
+2020-09-25 20:06:52,520:INFO:Checking Exceptions
+2020-09-25 20:06:52,521:INFO:Preloading libraries
+2020-09-25 20:06:52,522:INFO:Preparing display monitor
+2020-09-25 20:06:52,537:INFO:Importing libraries
+2020-09-25 20:06:52,538:INFO:Declaring global variables
+2020-09-25 20:06:52,540:INFO:Copying data for preprocessing
+2020-09-25 20:06:52,547:INFO:Declaring preprocessing parameters
+2020-09-25 20:06:52,548:INFO:Importing preprocessing module
